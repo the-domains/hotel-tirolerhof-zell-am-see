@@ -1,4 +1,3 @@
-layout_spectrum: 0.18024503393098712
 typography_spectrum: 0.7211070042103529
 color:
   brandStrength: 0.4799348406959325
@@ -11,5 +10,7 @@ color:
     - '#A48D5F'
     - '#16B183'
     - '#006EC3'
+layout_spectrum: 0.18024503393098712
 name: Hotel Tirolerhof Zell am See
 title: Your luxury holiday hotel
+description: Hotel Tirolerhof**** Superior Zell am See
