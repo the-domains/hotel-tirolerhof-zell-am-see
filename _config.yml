@@ -6,9 +6,9 @@ color:
   saturation: 0.6557596123311669
   rhythmicContrast: 0.2244705909397453
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#141414'
+    - '#A48D5F'
+    - '#16B183'
+    - '#006EC3'
 name: Hotel Tirolerhof Zell am See
